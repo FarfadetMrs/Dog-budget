@@ -1,2 +1,2 @@
-# Dog-budget
-demo testing to ihm
+# Python Home Learning
+Demo test on python
